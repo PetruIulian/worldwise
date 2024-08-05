@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -49,16 +25,26 @@
       "id": 73930389
     },
     {
-      "cityName": "Hamburg",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2024-08-05T19:01:26.309Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "40.45974812012843",
+        "lng": "-3.6903762817382817"
       },
-      "id": 923443197
+      "id": 98443198
+    },
+    {
+      "cityName": "Valea Lunga Gorgota",
+      "country": "Romania",
+      "date": "2024-08-05T19:03:41.628Z",
+      "notes": "",
+      "position": {
+        "lat": "45.089035564831036",
+        "lng": "25.558681300581128"
+      },
+      "id": 98443199
     }
   ]
 }
